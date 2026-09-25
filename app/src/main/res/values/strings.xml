@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Psiconnect</string>
+
+    <!-- Tela de login -->
+    <string name="login_titulo">Psiconnect</string>
+    <string name="login_subtitulo">Agende sua consulta com facilidade</string>
+
+    <string name="login_label_email">E-mail</string>
+    <string name="login_hint_email">seu@email.com</string>
+
+    <string name="login_label_senha">Senha</string>
+    <string name="login_hint_senha">••••••••</string>
+
+    <string name="login_esqueceu_senha">Esqueceu a senha?</string>
+    <string name="login_botao_entrar">Entrar</string>
+    <string name="login_ou">ou</string>
+    <string name="login_botao_google">Entrar com o Google</string>
+    <string name="login_cadastro">Não tem conta? Cadastre-se</string>
+
+    <!-- Validações -->
+    <string name="erro_email_vazio">Digite seu e-mail</string>
+    <string name="erro_email_invalido">E-mail inválido</string>
+    <string name="erro_senha_vazia">Digite sua senha</string>
+    <string name="erro_senha_curta">A senha deve ter no mínimo 6 caracteres</string>
+
+    <!-- Mensagens e feedback -->
+    <string name="msg_login_valido">Login válido! Chamar API de autenticação aqui.</string>
+    <string name="msg_bem_vindo">Bem-vindo(a), %1$s</string>
+    <string name="msg_falha_google">Falha no login com Google: %1$s</string>
+    <string name="msg_abrir_recuperar_senha">Abrir tela de recuperação de senha</string>
+    <string name="msg_abrir_cadastro">Abrir tela de cadastro</string>
+</resources>
